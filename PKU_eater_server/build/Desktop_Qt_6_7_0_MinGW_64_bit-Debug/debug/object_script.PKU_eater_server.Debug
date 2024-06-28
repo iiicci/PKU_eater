@@ -1,0 +1,10 @@
+debug/clientsocket.o
+debug/cuisine.o
+debug/json_cuisine.o
+debug/main.o
+debug/myserver.o
+debug/mysocket.o
+debug/utilities.o
+debug/moc_clientsocket.o
+debug/moc_myserver.o
+debug/moc_mysocket.o

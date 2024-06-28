@@ -1,0 +1,10 @@
+release/clientsocket.o
+release/cuisine.o
+release/json_cuisine.o
+release/main.o
+release/myserver.o
+release/mysocket.o
+release/utilities.o
+release/moc_clientsocket.o
+release/moc_myserver.o
+release/moc_mysocket.o

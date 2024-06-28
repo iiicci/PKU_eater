@@ -1,0 +1,14 @@
+release/clientsocket.o
+release/commentdetails.o
+release/cuisine.o
+release/cuisinedetails.o
+release/dialog.o
+release/json_cuisine.o
+release/main.o
+release/mainwindow.o
+release/utilities.o
+release/moc_clientsocket.o
+release/moc_commentdetails.o
+release/moc_cuisinedetails.o
+release/moc_dialog.o
+release/moc_mainwindow.o

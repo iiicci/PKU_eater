@@ -1,0 +1,14 @@
+debug/clientsocket.o
+debug/commentdetails.o
+debug/cuisine.o
+debug/cuisinedetails.o
+debug/dialog.o
+debug/json_cuisine.o
+debug/main.o
+debug/mainwindow.o
+debug/utilities.o
+debug/moc_clientsocket.o
+debug/moc_commentdetails.o
+debug/moc_cuisinedetails.o
+debug/moc_dialog.o
+debug/moc_mainwindow.o
